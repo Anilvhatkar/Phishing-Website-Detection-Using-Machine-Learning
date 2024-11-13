@@ -33,7 +33,7 @@ https_Domain: Use of HTTPS in the domain (binary).
 The dataset is balanced and preprocessed to ensure fair training and testing.
 
 
-#**Methodology**
+# **Methodology**
 
 **Programming Language**: Python, using Google Colab for development and result visualization.
 
